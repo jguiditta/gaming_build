@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Build Guide"
+---
+
 ## Resources ##
 
 This is a good way to check if your components are likely to be compatible:
@@ -39,7 +44,9 @@ come down, or newer models have become available.
   - This has some lighting, inlcuding the RoG logo, which may be a plus or
     minus, depending what you like.
   - Prices vary, this was $178 when we got it.
-  - ![rog_mb](https://m.media-amazon.com/images/I/91kiULWxQkL._AC_SL1500_.jpg)
+
+![rog_mb](https://m.media-amazon.com/images/I/91kiULWxQkL._AC_SL1500_.jpg)
+
 * [Asus TUF Gaming X570-Plus](https://smile.amazon.com/gp/product/B07SXFK1TP)
   - The TUF Gaming series has a bit of a different aesthetic, using black with
     yellow highlights, and less lighting.  There is also a 
@@ -48,7 +55,8 @@ come down, or newer models have become available.
     less.  I don't have personal experience with this one, so definitely check
     the reviews.
   - This ran about $200 at one point, the B550 model looks to be about $160.
-  - ![motherboard](https://m.media-amazon.com/images/I/81TJqW96oEL._AC_SL1500_.jpg)
+
+![motherboard](https://m.media-amazon.com/images/I/81TJqW96oEL._AC_SL1500_.jpg)
 
 #### Graphics Card ####
 
