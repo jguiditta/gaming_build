@@ -60,6 +60,9 @@ come down, or newer models have become available.
 
 #### Graphics Card ####
 
+You can Go with either Nvidia or AMD, either works fine, just a matter of
+preference.
+
 #### RAM ####
 
 #### Storage ####
